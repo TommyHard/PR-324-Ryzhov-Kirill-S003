@@ -1,0 +1,6 @@
+﻿  stokedelete.cpp
+C:\Users\TommyHard\Desktop\stokedelete\stokedelete\stokedelete.cpp(37,4): warning C4102: b2: неиспользованная метка
+C:\Users\TommyHard\Desktop\stokedelete\stokedelete\stokedelete.cpp(40,1): warning C4102: b3: неиспользованная метка
+C:\Users\TommyHard\Desktop\stokedelete\stokedelete\stokedelete.cpp(44,1): warning C4102: b4: неиспользованная метка
+C:\Users\TommyHard\Desktop\stokedelete\stokedelete\stokedelete.cpp(49,1): warning C4102: b5: неиспользованная метка
+  stokedelete.vcxproj -> C:\Users\TommyHard\Desktop\stokedelete\Debug\stokedelete.exe

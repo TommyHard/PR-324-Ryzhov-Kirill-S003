@@ -1,0 +1,6 @@
+﻿  stokedelete.cpp
+D:\GIT\PR-324-Ryzhov-Kirill-S003\stokedelete\stokedelete.cpp(37,4): warning C4102: b2: неиспользованная метка
+D:\GIT\PR-324-Ryzhov-Kirill-S003\stokedelete\stokedelete.cpp(40,1): warning C4102: b3: неиспользованная метка
+D:\GIT\PR-324-Ryzhov-Kirill-S003\stokedelete\stokedelete.cpp(44,1): warning C4102: b4: неиспользованная метка
+D:\GIT\PR-324-Ryzhov-Kirill-S003\stokedelete\stokedelete.cpp(49,1): warning C4102: b5: неиспользованная метка
+  stokedelete.vcxproj -> D:\GIT\PR-324-Ryzhov-Kirill-S003\Debug\stokedelete.exe
